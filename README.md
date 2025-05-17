@@ -30,4 +30,4 @@ Este proyecto es una **prueba personal**, pensada como una base para desarrollar
 
 ## 📫 Contacto
 
-Por ahora, puedes contactarme directamente a través del formulario de prueba o dejar comentarios en este repositorio. ¡Estoy abierto a sugerencias y retroalimentación!
+Por ahora, puedes dejar comentarios en este repositorio. ¡Estoy abierto a sugerencias y retroalimentación!
